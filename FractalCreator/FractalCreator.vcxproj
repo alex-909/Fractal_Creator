@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileWriter.cpp" />
     <ClCompile Include="FractalCreator.cpp" />
+    <ClCompile Include="FractalDebug.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FileWriter.h" />
     <ClInclude Include="FractalCreator.h" />
+    <ClInclude Include="FractalDebug.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

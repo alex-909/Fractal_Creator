@@ -1,6 +1,3 @@
 ﻿  Main.cpp
-D:\Projects\Fractal_Creator\FractalCreator\Main.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\Fractal_Creator\FractalCreator\Main.cpp(19,27): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\Fractal_Creator\FractalCreator\Main.cpp(24,35): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\Fractal_Creator\FractalCreator\Main.cpp(32,35): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Fractal_Creator\FractalCreator\Main.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
   FractalCreator.vcxproj -> D:\Projects\Fractal_Creator\FractalCreator\Debug\FractalCreator.exe
