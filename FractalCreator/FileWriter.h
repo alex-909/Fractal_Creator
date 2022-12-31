@@ -2,6 +2,8 @@
 #define FILEWRITER_H
 
 #include <vector>
+using namespace std;
+
 void writeToFile(vector<vector<bool>> vect);
 
 #endif
